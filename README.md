@@ -14,7 +14,7 @@ Actualmente terminando una **Maestría en Inteligencia Artificial** en la **Univ
 
 - **ML / DS** — Python, pandas, NumPy, scikit-learn, PyTorch, TensorFlow
 - **Datos** — SQL, PostgreSQL, BigQuery, dbt, DuckDB, Airflow
-- **BI** — Power BI, Tableau
+- **BI** — Power BI, Looker
 - **Backend / Tooling** — FastAPI, Docker, GitHub Actions, Render
 
 ### Contacto
@@ -40,7 +40,7 @@ Currently finishing an **MSc in Artificial Intelligence** at **Universidad de Sa
 
 - **ML / DS** — Python, pandas, NumPy, scikit-learn, PyTorch, TensorFlow
 - **Data** — SQL, PostgreSQL, BigQuery, dbt, DuckDB, Airflow
-- **BI** — Power BI, Tableau
+- **BI** — Power BI, Looker
 - **Backend / Tooling** — FastAPI, Docker, GitHub Actions, Render
 
 ### Contact
