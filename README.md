@@ -88,10 +88,3 @@ Currently finishing an **MSc in Artificial Intelligence** at **Universidad de Sa
 - **Portfolio** — [smesch1.github.io](https://smesch1.github.io)
 
 
----
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=smesch1&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smesch1&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
