@@ -91,5 +91,7 @@ Currently finishing an **MSc in Artificial Intelligence** at **Universidad de Sa
 ---
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMESCH1&show_icons=true&hide_border=true&hide_title=false)](https://github.com/SMESCH1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMESCH1&layout=compact&hide_border=true)](https://github.com/SMESCH1)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=smesch1&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smesch1&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
